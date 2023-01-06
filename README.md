@@ -61,10 +61,8 @@
 ## 사용한 모듈
 - 언어 </br>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-- 구축환경</br>
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> 
-- 활용 기술</br>
-<img src="https://img.shields.io/badge/Selenium-00660?style=flat-square&logo=Selenium&logoColor=white"/> 및 <img src="https://img.shields.io/badge/Beautifulsoup-FF0000?style=flat-square&logo=Beautifulsoup&logoColor=white"/> 을 이용하여 신세계 L&B 및 VIVINO 사이트 와인 정보 크롤링</br>
+- 구축환경</br><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> 
+- 활용 기술 <img src="https://img.shields.io/badge/Selenium-00660?style=flat-square&logo=Selenium&logoColor=white"/> 및 <img src="https://img.shields.io/badge/Beautifulsoup-FF0000?style=flat-square&logo=Beautifulsoup&logoColor=white"/>을 이용하여 신세계 L&B 및 VIVINO 사이트 와인 정보 크롤링
 <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black"/> 의 K-Means를 이용하여 1.취향 추천을 위한 군집화 및 분류학습 2.상황별 추천을 위한 군집화</br>
 <img src="https://img.shields.io/badge/Pytesseract OCR-004088?style=flat-square&logo=Pytesseract OCR&logoColor=white"/> 을 이용한 이미지 내 텍스트 추출 => 추출된 단어가 있는 와인을 불러오도록 구현
 - 통합 개발 환경 </br>
