@@ -1,7 +1,6 @@
 ## 📊 발표주제 및 자료
 ### 와린이(와인 입문자)를 위한 '와인추천 서비스' 웹사이트 구현
-[![발표자료 보러가기](https://user-images.githubusercontent.com/108326629/210937159-e28ab363-5a82-4bcb-af8e-53cde4da65c6.png "발표자료 보러가기")]
-(https://github.com/choi-aerim/220902_0926-Web-ML-project/blob/main/4.%20%EA%B2%B0%EA%B3%BC%20PPT%20%EB%B0%8F%20%EC%98%81%EC%83%81/B_WINEZ_%EC%99%80%EB%A6%B0%EC%9D%B4%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%99%80%EC%9D%B8%EC%B6%94%EC%B2%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EA%B5%AC%ED%98%84.pdf)<br/>
+[![발표자료 보러가기](https://user-images.githubusercontent.com/108326629/210938178-07dd3a18-aef9-4f5b-8ef6-9dedf1fbe152.png "발표자료 보러가기")](https://github.com/choi-aerim/220902_0926-Web-ML-project/blob/main/4.%20%EA%B2%B0%EA%B3%BC%20PPT%20%EB%B0%8F%20%EC%98%81%EC%83%81/B_WINEZ_%EC%99%80%EB%A6%B0%EC%9D%B4%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%99%80%EC%9D%B8%EC%B6%94%EC%B2%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EA%B5%AC%ED%98%84.pdf)<br/>
 
 ## 🌱 요약
 ### 기획 배경
