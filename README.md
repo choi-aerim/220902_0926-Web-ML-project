@@ -1,7 +1,7 @@
 # 220902_0926-Web-ML-project
 와린이(와인 입문자)를 위한 '와인추천 서비스' 웹사이트 구현
 
-## CONTENTS
+## 🌱 요약
 ### 기획 배경
 - 와인 소비량이 코로나 이후 2배 이상 급성장, 수입 주류 시장에서 맥주를 제치고 **1위** 
   > 대형마트, 편의점 등 대부분의 **유통채널**이 와인을 들이는 것에 적극적이며 종류와 가격대가 다양, 혼술족을 겨냥해 부담 없이 마실 수 있는 **가성비 와인**이 잇따라 출시
@@ -59,14 +59,15 @@
 - **와인 및 주류 시장의 성장** 도모
 
 ## 사이트 구성 방법 및 활용 언어
-
-|                | 활용언어 & 사용방법             |
-|----------------|-------------------------------|
-|와인 정보 크롤링 |**selenium 과 beautifulsoup** 을 이용하여 신세계 L&B와인 정보 크롤링(이후 전처리 작업)|
-|Collection 라이브러리 Okt 활용|차가운 육류요리, 붉은육류요리 등 형용사와 같이 설명되어있는 음식 정보에서  빈도수를 확인하여 빈도수가 높은 단어를 기준으로 **중분류 키워드 추출**|
-|scikit.learn|1.취향 추천을 위한 **군집화 및 분류학습** 2.상황별 추천을 위한 **군집화**|
-|Tesseract OCR|이미지에서 텍스트를 추출하여 인식된 텍스트와 숫자로만 이루어진 단어가 출력되도록 코드 생성 => 추출 된 단어가 있는 와인을 불러오도록 구현|
-|Django|생성한 데이터를 기반으로 카테고리, mypage, 와인 리스트, 와인 설명칸, log-in 구현|
+## 사용한 모듈
+- 언어 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+- 구축환경 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> 
+- 활용 기술</br>
+<img src="https://img.shields.io/badge/Selenium-00660?style=flat-square&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Beautifulsoup-FF0000?style=flat-square&logo=Beautifulsoup&logoColor=white"/>을 이용하여 신세계 L&B 및 VIVINO 사이트 와인 정보 크롤링</br>
+<img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black"/>의 K-Means를 이용하여 1.취향 추천을 위한 군집화 및 분류학습 2.상황별 추천을 위한 군집화</br>
+<img src="https://img.shields.io/badge/Tesseract-OCR-004088?style=flat-square&logo=Tesseract-OCR&logoColor=white"/>을 이용한 이미지 내 텍스트 추출 => 추출된 단어가 있는 와인을 불러오도록 구현
+- 통합 개발 환경 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=black"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=black"/></br>
+- 웹 구현 <img src="https://img.shields.io/badge/Django-004088?style=flat-square&logo=Django&logoColor=white"/> Django생성한 데이터를 기반으로 카테고리, mypage, 와인 리스트, 와인 설명칸, log-in 구현
 
 ## 최종 구현 화면
 https://github.com/leejunghyunA/my_dj/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%83%9D%EC%84%B1%EA%B3%BC%EC%A0%95/%EC%B5%9C%EC%A2%85_output/B_WINEZ_%EC%99%80%EB%A6%B0%EC%9D%B4%2C%20%EC%9D%B4%EB%A6%AC%EC%99%80%EB%A6%B0%EC%9D%B4_%EA%B5%AC%ED%98%84%EC%98%81%EC%83%81.mp4
