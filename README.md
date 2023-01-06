@@ -1,7 +1,8 @@
 ## 📊 발표주제 및 자료
 ### 와린이(와인 입문자)를 위한 '와인추천 서비스' 웹사이트 구현
 [![발표자료 보러가기](https://user-images.githubusercontent.com/108326629/210938178-07dd3a18-aef9-4f5b-8ef6-9dedf1fbe152.png "발표자료 보러가기")](https://github.com/choi-aerim/220902_0926-Web-ML-project/blob/main/4.%20%EA%B2%B0%EA%B3%BC%20PPT%20%EB%B0%8F%20%EC%98%81%EC%83%81/B_WINEZ_%EC%99%80%EB%A6%B0%EC%9D%B4%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%99%80%EC%9D%B8%EC%B6%94%EC%B2%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EA%B5%AC%ED%98%84.pdf)<br/>
-
+</br>
+</br>
 ## 🌱 요약
 ### 기획 배경
 - 와인 소비량이 코로나 이후 2배 이상 급성장, 수입 주류 시장에서 맥주를 제치고 **1위** 
@@ -11,6 +12,7 @@
   
  - 와인에 대한 수요 증가로 **'와린이'를 위한 정보 필요성 증가** (와린이 : 와인에 대한 배경지식이 없는 와인 입문자)
  
+
  ### 문제 제기
  
  ![image](https://user-images.githubusercontent.com/108326573/192915765-bc1658aa-3217-4dec-81f2-57e026003d8c.png)
@@ -59,7 +61,7 @@
 
 - **와인 및 주류 시장의 성장** 도모
 
-
+</br></br>
 ## 사용한 모듈
 - 언어: <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 - 구축환경: <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> 
@@ -69,8 +71,14 @@
 - 통합 개발 환경: <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=black"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=black"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></br>
 - 웹 구현: <img src="https://img.shields.io/badge/Django-004088?style=flat-square&logo=Django&logoColor=white"/> Django생성한 데이터를 기반으로 카테고리, mypage, 와인 리스트, 와인 설명칸, log-in 구현
 
-## 최종 구현 화면
+</br>
+</br>
 
+## 최종 구현 화면
+![B_WINEZ_와린이를-위한-와인추천서비스-웹사이트-구현_구현영상_압축_ (1)](https://user-images.githubusercontent.com/108326629/210950351-b7125bf7-a436-4c20-9406-87bb330ffe92.gif)
+
+</br>
+</br>
 
 ## 👩‍👩‍👧‍👦 팀원 소개
 
