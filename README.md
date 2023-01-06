@@ -1,5 +1,4 @@
-# 220902_0926-Web-ML-project
-와린이(와인 입문자)를 위한 '와인추천 서비스' 웹사이트 구현
+# 와린이(와인 입문자)를 위한 '와인추천 서비스' 웹사이트 구현
 
 ## 🌱 요약
 ### 기획 배경
@@ -65,14 +64,14 @@
 - 활용 기술</br>
 <img src="https://img.shields.io/badge/Selenium-00660?style=flat-square&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Beautifulsoup-FF0000?style=flat-square&logo=Beautifulsoup&logoColor=white"/>을 이용하여 신세계 L&B 및 VIVINO 사이트 와인 정보 크롤링</br>
 <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black"/>의 K-Means를 이용하여 1.취향 추천을 위한 군집화 및 분류학습 2.상황별 추천을 위한 군집화</br>
-<img src="https://img.shields.io/badge/Tesseract-OCR-004088?style=flat-square&logo=Tesseract-OCR&logoColor=white"/>을 이용한 이미지 내 텍스트 추출 => 추출된 단어가 있는 와인을 불러오도록 구현
-- 통합 개발 환경 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=black"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=black"/></br>
+<img src="https://img.shields.io/badge/Visual Studio-004088?style=flat-square&logo=Visual Studio&logoColor=white"/>을 이용한 이미지 내 텍스트 추출 => 추출된 단어가 있는 와인을 불러오도록 구현
+- 통합 개발 환경 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=black"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=black"/> <img src="https://img.shields.io/badge/Visual Studio-#5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></br>
 - 웹 구현 <img src="https://img.shields.io/badge/Django-004088?style=flat-square&logo=Django&logoColor=white"/> Django생성한 데이터를 기반으로 카테고리, mypage, 와인 리스트, 와인 설명칸, log-in 구현
 
 ## 최종 구현 화면
 https://github.com/leejunghyunA/my_dj/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%83%9D%EC%84%B1%EA%B3%BC%EC%A0%95/%EC%B5%9C%EC%A2%85_output/B_WINEZ_%EC%99%80%EB%A6%B0%EC%9D%B4%2C%20%EC%9D%B4%EB%A6%AC%EC%99%80%EB%A6%B0%EC%9D%B4_%EA%B5%AC%ED%98%84%EC%98%81%EC%83%81.mp4
 
-## 아쉬운 점
+## 💬 아쉬운 점
 와인 정보가 사이트에 자세히 게시되어있지않아 약 300개 정도의 와인으로만 군집화하여 정확한 특징을 찾기 힘들었습니다. 그래서 손군집으로 비슷한 특징으로 묶어 카테고리를 생성하였지만 새로운 와인이 추가되면 군집 내용이 달라질 수 있는 일회성의 느낌이 강해서 실전에 사용할 수 없는 부분이 아쉬웠다. 
 
 - produce by 최애림, 이정현A
