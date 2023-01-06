@@ -64,7 +64,7 @@
 - 활용 기술</br>
 <img src="https://img.shields.io/badge/Selenium-00660?style=flat-square&logo=Selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Beautifulsoup-FF0000?style=flat-square&logo=Beautifulsoup&logoColor=white"/>을 이용하여 신세계 L&B 및 VIVINO 사이트 와인 정보 크롤링</br>
 <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black"/>의 K-Means를 이용하여 1.취향 추천을 위한 군집화 및 분류학습 2.상황별 추천을 위한 군집화</br>
-<img src="https://img.shields.io/badge/Visual Studio-004088?style=flat-square&logo=Visual Studio&logoColor=white"/>을 이용한 이미지 내 텍스트 추출 => 추출된 단어가 있는 와인을 불러오도록 구현
+<img src="https://img.shields.io/badge/Pytesseract OCR-004088?style=flat-square&logo=Pytesseract OCR&logoColor=white"/>을 이용한 이미지 내 텍스트 추출 => 추출된 단어가 있는 와인을 불러오도록 구현
 - 통합 개발 환경 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=black"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=black"/> <img src="https://img.shields.io/badge/Visual Studio-#5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></br>
 - 웹 구현 <img src="https://img.shields.io/badge/Django-004088?style=flat-square&logo=Django&logoColor=white"/> Django생성한 데이터를 기반으로 카테고리, mypage, 와인 리스트, 와인 설명칸, log-in 구현
 
